@@ -23,11 +23,11 @@
 }
 
 .navbar a:hover {
-    background-color: #495057;
+    background-color: #ef9556;
 }
 
 .footer {
-    background-color: #f8f9fa;
+    background-color: #ef9556;
     text-align: center;
     padding: 20px;
     position: fixed;
